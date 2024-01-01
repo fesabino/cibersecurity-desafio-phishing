@@ -12,10 +12,9 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.twitter.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+![Kali](https://github.com/fesabino/cibersecurity-desafio-phishing/assets/70479809/97cb4207-72fb-42d4-aeb5-26532e83fc5a)
